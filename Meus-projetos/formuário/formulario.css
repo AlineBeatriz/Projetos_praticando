@@ -1,0 +1,48 @@
+body{
+    font-size: 17px;
+    font-family: sans-serif;
+    background: #F3FEB0;
+    color: #461958;
+    height:617px;
+    width: 600px;
+    padding: 2px 80px 17px 30px;
+    margin: auto;
+    border: 10px solid #becc62;
+}
+header{
+    color: #812F33;
+    font-size: 20px;
+    font-family: monospace;
+}
+h1{
+    margin-left: 60px;
+    font-family: 'Zen Antique', serif;
+    text-align: center;
+}
+p{
+    padding-left: 15px;
+}
+fieldset{
+    border: 0;
+}
+.campo input:for, .campo select:focus, .campo textarea:focus {
+    background: burlywood;
+}
+.botao {
+    font-size: 1.2em;
+    background: #461958;
+    border: 0;
+    margin-bottom: 1em;
+    color: white;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.582);
+    text-shadow: 1px 1px 1px black;
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    border-radius: 10px 10px;
+    margin-right: -50%;
+    transform: translate(20%, 20%);
+
+
+}
