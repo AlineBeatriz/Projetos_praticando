@@ -26,6 +26,15 @@ Calculadora básica feita com **HTML** e **CSS**, simulando operações simples:
 
 ---
 
+## 📝 Lâmpada
+
+Projeto criado utilizando **HTML** **CSS** e **JS**, para praticar interação do usuário .
+
+📸 *Imagem do projeto abaixo:*  
+*(Adicione aqui um print da tela)*
+
+---
+
 ## 📌 Objetivo
 
 Esses projetos têm como foco:
@@ -39,6 +48,7 @@ Esses projetos têm como foco:
 
 - HTML5
 - CSS3
+- JAVASCRIPT
 
 ---
 
