@@ -26,7 +26,7 @@ Calculadora básica feita com **HTML** e **CSS**, simulando operações simples:
 
 ---
 
-## 📝 Lâmpada
+## 💡 Lâmpada
 
 Projeto criado utilizando **HTML** **CSS** e **JS**, para praticar interação do usuário .
 
